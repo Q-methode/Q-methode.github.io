@@ -47,12 +47,12 @@
         <input required="true" type="text" maxlength="4" restricted="0-9"></input>
 
         <label>Welke werksituatie is het meeste op u van toepassing?</label>
-        <input type="radio" required="true">Werkzaam;Werkloos of werkzoekend of bijstand;Gepensioneerd of VUT;Studerend of schoolgaand;Arbeidsongeschikt;Vrijwilligerswerk;Huisvrouw of Huisman of Anders</input>
+        <input type="radio" required="true">Werkzaam;Werkloos/werkzoekend/ bijstand;Gepensioneerd of VUT;Studerend of schoolgaand;Arbeidsongeschikt;Vrijwilligerswerk;Huisvrouw/Huisman/Anders</input>
 
         <label>Wat is uw hoogst behaalde diploma?</label>
-        <input required="true" type="radio">Geen onderwijs;Basisonderwijs;vmbo;De eerste 3 leerjaren van havo/vwo;Assistentenopleiding (mbo-1);Bovenbouw van havo of vwo;Basisberoepsopleiding (mbo-2);Vakopleiding (mbo-3);Middenkader- en specialistenopleiding (mbo-4);hbo (bachelor/master);wo (bachelor/master)</input>
+        <input required="true" type="radio">Geen onderwijs;Basisonderwijs;vmbo;De eerste 3 leerjaren van havo/vwo;Assistentenopleiding (mbo-1);Bovenbouw van havo/vwo;Basisberoepsopleiding (mbo-2);Vakopleiding (mbo-3);Middenkader- en specialistenopleiding (mbo-4);hbo (bachelor/master);wo (bachelor/master)</input>
 
-        <label>Wat is uw persoonlijk netto maandinkomen {br} (Reken mee, indien van toepassing: netto-inkomsten uit arbeid; netto-vervangingsinkomens (pensioen, werkloosheidsuitkering, etc.); bijkomende netto-inkomens (bijv. huuropbrengsten); alimentatiegeld. Reken niet mee: vakantiegeld, eindejaarspremie en kindergeld)</label>
+        <label>Wat is uw persoonlijk netto maandinkomen (Reken mee, indien van toepassing: netto-inkomsten uit arbeid; netto-vervangingsinkomens (pensioen, werkloosheidsuitkering, etc.); bijkomende netto-inkomens (bijv. huuropbrengsten); alimentatiegeld. Reken niet mee: vakantiegeld, eindejaarspremie en kindergeld)</label>
         <input required="True" type="radio">0-1.800 euro;1.800-3.600 euro;Meer dan 3.600 euro</input>
 
 	<label>Hoe zou u in het algemeen uw fysieke gesteldheid en gezondheid omschrijven?</label>
