@@ -47,7 +47,7 @@
         <input required="true" type="text" maxlength="4" restricted="0-9"></input>
 
         <label>Welke werksituatie is het meeste op u van toepassing?</label>
-        <input type="radio" required="true">Werkzaam;Werkloos/werkzoekend/ bijstand;Gepensioneerd of VUT;Studerend of schoolgaand;Arbeidsongeschikt;Vrijwilligerswerk;Huisvrouw/Huisman/Anders</input>
+        <input type="radio" required="true">Werkzaam;Werkloos/werkzoekend/bijstand;Gepensioneerd of VUT;Studerend of schoolgaand;Arbeidsongeschikt;Vrijwilligerswerk;Huisvrouw/Huisman/Anders</input>
 
         <label>Wat is uw hoogst behaalde diploma?</label>
         <input required="true" type="radio">Geen onderwijs;Basisonderwijs;vmbo;De eerste 3 leerjaren van havo/vwo;Assistentenopleiding (mbo-1);Bovenbouw van havo/vwo;Basisberoepsopleiding (mbo-2);Vakopleiding (mbo-3);Middenkader- en specialistenopleiding (mbo-4);hbo (bachelor/master);wo (bachelor/master)</input>
