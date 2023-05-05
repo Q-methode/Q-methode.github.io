@@ -53,7 +53,7 @@ Jorben van der Sar en Koen van den Berg</item>
 -	Stellingen waar u neutraal over bent;{br}
 -	Stellingen waar u het mee eens bent.{br}{br}
 U kunt de stellingen naar de gewenste categorie slepen of u kunt de toetsen 1, 2 of 3 gebruiken. Mogelijk moet u de numlock op uw toetsenbord uitzetten om de toetsen 1, 2 of 3 te kunnen gebruiken.{br}{br}
-Let op: Sommige stellingen zijn te lang om in één keer te kunnen lezen. Plaats dergelijke stellingen in één van de categorieën, zodat u ze volledig kunt lezen. Daarna kunt u de stelling nog naar een andere categorie verplaatsen.{br}{br}
+Let op: sommige stellingen zijn te lang om in één keer te kunnen lezen. Plaats dergelijke stellingen in één van de categorieën, zodat u ze volledig kunt lezen. Daarna kunt u de stelling nog naar een andere categorie verplaatsen.{br}{br}
 U kunt uw voorkeur later nog veranderen. Als u deze instructie nog een keer wilt lezen, druk dan op 'Help mij!' rechtsonder in de hoek van uw beeldscherm. {br}{br}
 </item>
 
@@ -70,8 +70,7 @@ Let op: soms kunnen stellingen niet in zijn volledigheid worden gelezen. Houd de
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
         <item id="step3Head">Stap 3 van 5</item>
         <item id="step3Text">U heeft nu alle stellingen op de scorekaart geplaatst. Bekijk uw verdeling nogmaals en verschuif of wissel eventueel nog stellingen om uw keuzes te verfijnen.{br}{br}
-Let op: soms kunnen stellingen niet in zijn volledigheid worden gelezen. Houd de muis daarom op het kaartje totdat de stelling volledig in beeld komt.
-.</item>
+Let op: soms kunnen stellingen niet in zijn volledigheid worden gelezen. Houd de muis daarom op het kaartje totdat de stelling volledig in beeld komt.</item>
         <item id="step3CondOfInstruc">Sorteer de kaarten op basis van uw ervaring met betrekking tot mobiliteitsarmoede.</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
@@ -80,7 +79,7 @@ Let op: soms kunnen stellingen niet in zijn volledigheid worden gelezen. Houd de
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
         <item id="step5Head">Stap 5 van 5</item>
-        <item id="step5Text">In deze laatste stap volgen enkele vragen over uw persoonlijke kenmerken.</item>
+        <item id="step5Text">In deze laatste stap volgen enkele vragen over uw persoonlijke kenmerken en achtergrond.</item>
 
         <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
         <item id="transferHead">Afronden vragenlijst</item>
