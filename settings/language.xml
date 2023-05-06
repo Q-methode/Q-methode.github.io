@@ -42,13 +42,13 @@
         <item id="introHead">Introductie</item>
         <item id="introText">U bent uitgenodigd om deel te nemen aan een onderzoek naar de perspectieven rond het ervaren van mobiliteitsarmoede in Nederland. Dit onderzoek wordt uitgevoerd door Koen van den Berg en Jorben van der Sar in het kader van het vak TB351D Bachelor Eindproject van de opleiding Technische Bestuurskunde aan de Technische Universiteit Delft. Het doel van dit onderzoek is om de perspectieven rond het ervaren van mobiliteitsarmoede in Nederland in kaart te brengen. {br}{br}
 Het invullen van deze Q-survey zal ongeveer 25 minuten duren. De Q-survey bestaat uit vijf delen. De delen 1 tot en met 4 hebben betrekking op het rangschikken van stellingen en in deel 5 worden enkele vragen gesteld over uw persoonlijke kenmerken en achtergrond.{br}{br}
-Uw deelname aan dit onderzoek is geheel vrijwillig en u kunt zich op elk moment terugtrekken. Wij zijn van mening dat er geen bekende risico's verbonden zijn aan dit onderzoek. Zoals bij elke online gerelateerde activiteit is het risico van een inbreuk echter altijd mogelijk. Uw antwoorden in dit onderzoek zullen zo goed mogelijk vertrouwelijk blijven en uitsluitend geanonimiseerd verwerkt worden.{br}{br}
+Uw deelname aan dit onderzoek is geheel vrijwillig en u kunt zich op elk moment terugtrekken. Wij zijn van mening dat er geen bekende risico's zijn verbonden aan dit onderzoek. Zoals bij elke online gerelateerde activiteit is het risico van een inbreuk echter altijd mogelijk. Uw antwoorden in dit onderzoek zullen zo goed mogelijk vertrouwelijk blijven en uitsluitend geanonimiseerd verwerkt worden.{br}{br}
 Mocht u vragen of opmerkingen hebben, dan kunt u mailen naar K.C.vandenBerg@student.tudelft.nl of J.A.vanderSar@student.tudelft.nl  {br}{br}
 Alvast bedankt voor uw deelname!{br}{br}
 Jorben van der Sar en Koen van den Berg</item>
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Stap 1 van 5</item>
-        <item id="step1Text">In deze stap krijgt u 40 stellingen over het maken van verplaatsingen voorgelegd. U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Lees hierbij de stellingen nauwkeurig en verdeel ze in één van de volgende drie categorieën:{br}
+        <item id="step1Text">In deze stap krijgt u 40 stellingen over het maken van verplaatsingen, het deelnemen aan activiteiten en het bereiken van voorzieningen voorgelegd. U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Lees hierbij de stellingen nauwkeurig en verdeel ze in één van de volgende drie categorieën:{br}
 -	Stellingen waar u het mee oneens bent;{br}
 -	Stellingen waar u neutraal over bent;{br}
 -	Stellingen waar u het mee eens bent.{br}{br}
@@ -63,14 +63,14 @@ U kunt uw voorkeur later nog veranderen. Als u deze instructie nog een keer wilt
 Selecteer vervolgens de stellingen waar u daarna het meest mee eens of oneens bent en plaats deze onder '+4' of '-4'. Ga zo door met het invullen van de stellingen aan de 'Oneens'- en 'Eens'-zijdes van de scorekaart totdat alle stellingen zijn gerangschikt. {br}{br}
 Lees tenslotte de stellingen uit de categorie 'Neutraal' nogmaals. Plaats deze op de resterende vakken zodat alle stellingen gerangschikt zijn van meest mee oneens (links) naar meest mee eens (rechts) {br}{br}
 Zodra alle stellingen in een vakje zijn geplaatst, verschijnt er een knop 'Ga Verder...' in het scherm.{br}{br}
-Let op: soms kunnen stellingen niet in zijn volledigheid worden gelezen. Houd de muis daarom op het kaartje totdat de stelling volledig in beeld komt.
+Let op: soms kunnen stellingen die op de scorekaart zijn geplaatst niet volledig gelezen worden. Beweeg de muis dan naar een niet-geschreven deel op het betreffende kaartje om de stelling volledig te kunnen lezen. 
 </item>
         <item id="step2CondOfInstruc">Sorteer de kaarten op basis van uw eigen ervaring met betrekking tot het maken van verplaatsingen.</item>
         
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
         <item id="step3Head">Stap 3 van 5</item>
         <item id="step3Text">U heeft nu alle stellingen op de scorekaart geplaatst. Bekijk uw verdeling nogmaals en verschuif of wissel eventueel nog stellingen om uw keuzes te verfijnen.{br}{br}
-Let op: soms kunnen stellingen niet in zijn volledigheid worden gelezen. Houd de muis daarom op het kaartje totdat de stelling volledig in beeld komt.</item>
+Let op: soms kunnen stellingen die op de scorekaart zijn geplaatst niet volledig gelezen worden. Beweeg de muis dan naar een niet-geschreven deel op het betreffende kaartje om de stelling volledig te kunnen lezen.</item>
         <item id="step3CondOfInstruc">Sorteer de kaarten op basis van uw ervaring met betrekking tot mobiliteitsarmoede.</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
