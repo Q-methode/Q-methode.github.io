@@ -67,6 +67,9 @@
 	<label>Wat is uw ervaren reistijd tot de dichtstbijzijnde halte of station?</label>
         <input type="radio" required="true">0 - 5 minuten;5 - 10 minuten; Meer dan 10 minuten</input>	
 
+<label>Hoe zou u in het algemeen uw digitale vaardigheden omschrijven?</label>
+        <input type="radio" required="true">Slecht;Gemiddeld;Goed;Uitstekend</input>
+
        <label>Wat is uw viercijferige postcode?</label>
         <input required="true" type="text" maxlength="4" restricted="0-9"></input>
 
