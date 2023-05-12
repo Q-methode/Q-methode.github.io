@@ -53,7 +53,7 @@
         <input required="true" type="radio">Geen onderwijs;Basisonderwijs;vmbo;De eerste 3 leerjaren van havo/vwo;Assistentenopleiding (mbo-1);Bovenbouw van havo/vwo;Basisberoepsopleiding (mbo-2);Vakopleiding (mbo-3);Middenkader- en specialistenopleiding (mbo-4);hbo (bachelor/master);wo (bachelor/master)</input>
 
         <label>Wat is uw persoonlijk netto maandinkomen? (Reken mee, indien van toepassing: netto-inkomsten uit arbeid; netto-vervangingsinkomens (pensioen, werkloosheidsuitkering, etc.); bijkomende netto-inkomens (bijv. huuropbrengsten); alimentatiegeld. Reken niet mee: vakantiegeld, eindejaarspremie en kindergeld)</label>
-        <input required="True" type="radio">0 - 1.800 euro;1.800 - 3.600 euro;Meer dan 3.600 euro</input>
+        <input required="True" type="radio">0 - 1.800 euro;1.800 - 3.600 euro;Meer dan 3.600 euro; Zeg ik liever niet</input>
 
 	<label>Hoe zou u in het algemeen uw fysieke gesteldheid en gezondheid omschrijven?</label>
         <input type="radio" required="true">Slecht;Gemiddeld;Goed;Uitstekend</input>	
